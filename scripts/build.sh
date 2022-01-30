@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t sss0710/webserver .
+docker build -t neharika13/webserver .

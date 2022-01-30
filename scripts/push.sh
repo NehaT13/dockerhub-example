@@ -1,2 +1,2 @@
 #!/bin/bash
-docker push sss0710/webserver
+docker push neharika13/webserver
